@@ -41,12 +41,6 @@ Platform to adopt and list pets online.
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RituSingh211&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RituSingh211&theme=tokyonight" alt="GitHub Streak" />
 </p>
