@@ -3,9 +3,10 @@
 <h3 align="center">BCA Graduate Student | MERN Stack Developer</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="www.linkedin.com/in/ritu-singh-1a338a31a" />
+  <a href="https://www.linkedin.com/in/ritu-singh-1a338a31a">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
+</p>
 
 
 </p>
