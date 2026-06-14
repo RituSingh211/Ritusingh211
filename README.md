@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ritu Singh</h1>
+<h1 align="center">Hiii 👋, I'm Ritu Singh</h1>
 
 <h3 align="center">BCA Graduate Student | MERN Stack Developer</h3>
 
